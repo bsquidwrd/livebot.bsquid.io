@@ -1,0 +1,3 @@
+# Redirects from what the browser requests to what we serve
+/invite		https://discord.com/oauth2/authorize?client_id=334870738257444865&permissions=478208&scope=applications.commands%20bot
+/support    https://discord.gg/zXkb4JP

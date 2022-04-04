@@ -1,0 +1,22 @@
+{
+  "name": "livebot.bsquid.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "particles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsquidwrd/livebot.bsquid.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsquidwrd/livebot.bsquid.io/issues"
+  },
+  "homepage": "https://github.com/bsquidwrd/livebot.bsquid.io#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
