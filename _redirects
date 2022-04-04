@@ -1,3 +1,4 @@
 # Redirects from what the browser requests to what we serve
-/invite		https://discord.com/api/oauth2/authorize?client_id=334870738257444865&permissions=478208&redirect_uri=https%3A%2F%2Fbsquidwrd.gitbook.io%2Flivebot-docs%2Ftutorial-walkthrough%2Fstart-monitoring-a-stream&response_type=code&scope=bot%20applications.commands%20identify
-/support    https://discord.gg/zXkb4JP
+/invite 	https://discord.com/api/oauth2/authorize?client_id=334870738257444865&permissions=478208&redirect_uri=https%3A%2F%2Fbsquidwrd.gitbook.io%2Flivebot-docs%2Ftutorial-walkthrough%2Fstart-monitoring-a-stream&response_type=code&scope=bot%20applications.commands%20identify
+/support	https://discord.gg/zXkb4JP
+/docs   	https://bsquidwrd.gitbook.io/livebot-docs/
